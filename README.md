@@ -1,2 +1,2 @@
 # Agar.io Game
-agar.io game clone in javascript Using Socket.IO,NodeJS and ExpressJS
+Agar.io game clone in javascript using Socket.IO,NodeJS and ExpressJS
